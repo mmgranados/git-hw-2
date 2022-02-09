@@ -1,0 +1,15 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># Default ignored files\r\n/shelf/\r\n/workspace.xml\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+--- a/.idea/.gitignore	(revision 3b42de5a2174d57e3be5dbe4e724f2b221cd014f)
++++ b/.idea/.gitignore	(date 1644328644774)
+@@ -1,3 +1,4 @@
+ # Default ignored files
+ /shelf/
+ /workspace.xml
++src/com.home.some/Two.java
